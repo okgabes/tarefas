@@ -3,7 +3,7 @@ ANTES DE TUDO
 instalar o node
 https://nodejs.org/en/
 
-para verificar se ja possui ele instalado, ultilize o comando abaixo 
+para verificar se ja possui ele instalado, utilize o comando
 node -v
 
 instalar o expo de maneira global
@@ -12,7 +12,7 @@ npm install --global expo-cli
 (Passo 1) vá até ao diretorio do arquivo extraido
 
 (Passo 2) (ESSA ETAPA VAIDEMORAR POISIRÁ BAIXAR TODAS AS DEPENDENCIAS)
-Para abrir a aplicação ultilize o comando 
+Para abrir a aplicação utilize o comando
 expo start 
 
 -> MAIS INFORMAÇÕES NA DOCUMENTAÇÃO

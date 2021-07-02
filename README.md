@@ -16,7 +16,7 @@ Para abrir a aplicação utilize o comando
 expo start 
 
 -> MAIS INFORMAÇÕES NA DOCUMENTAÇÃO
-->
+-> https://docs.google.com/document/d/1ma3UyNQpbZMikwhdxc3H7jUp9mEsrhH0Zzri9tLBcZk
 
 Trabalho Final de ProgMov 2021/1
 Feito por:

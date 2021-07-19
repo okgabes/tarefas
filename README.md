@@ -1,4 +1,4 @@
-ANTES DE TUDO
+# ANTES DE TUDO
 
 instalar o node
 https://nodejs.org/en/
